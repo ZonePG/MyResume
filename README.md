@@ -1,5 +1,4 @@
-## LaTeX Version
+## LeTeX 简单制作简历
+参考[JasonZhang2333](https://github.com/JasonZhang2333/MyResume)的简历模板，修改了一些改进存在的Bug，以及字体设置为微软黑体加粗，样式如下：
 
-This is my resume. It's modified from [Todd C. Miller](http://www.sudo.ws/todd/resume.html) and [Here Chen's](https://github.com/HereChen/resume) template.
-
-![Image text](https://github.com/JasonZhang2333/MyResume/blob/master/resume.png)
+![Image text](https://github.com/ZonePG/MyResume/blob/master/resume.jpg)
